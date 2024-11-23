@@ -13,3 +13,5 @@
   https://youtu.be/eetWoCVT9tc?si=6JgodjmWnd-L-7dB
 * Aarambh Dev Hub Youtube Channel
   https://www.youtube.com/@AarambhDevHub/videos
+* Rust Tutorial Video
+  https://youtu.be/lzKeecy4OmQ?si=wAPn4aO_rS-v2JMq
